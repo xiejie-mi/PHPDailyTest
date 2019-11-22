@@ -1,0 +1,12 @@
+<?php 
+
+$a=1;
+   $time=date("d");
+
+  var_dump($time);
+
+  $time=$time+$a;
+
+
+  
+?>
